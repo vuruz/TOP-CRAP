@@ -1,0 +1,91 @@
+body{
+    background-color: black;
+}
+
+.Tittle{
+    height: 300px;
+    background-image: url('images/bg.jpg');
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 0px;
+
+}
+
+.Tittle h1{
+    color: blanchedalmond;
+}
+
+
+h1{
+
+    padding-top: 100px;
+}
+
+.intro{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 2px solid;     
+}
+
+.destination p {
+
+        color: red;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.destination ul {
+    color: aqua;
+    list-style-type: square;
+    margin-left: 25px;
+}
+
+
+
+.destination h1 {
+
+    color: beige;
+}
+.destination h4{
+
+    color: blanchedalmond;
+
+}
+
+.destination h3{
+    color: blanchedalmond;
+}
+
+.destination h2{
+
+
+    color: blanchedalmond;
+}
+
+.destination2 h2{
+
+    color: bisque;
+
+}
+.destination2 h1{
+
+    color:bisque
+
+
+
+}
+
+
+.destination2 ul {
+    color: antiquewhite;
+    list-style-type: square;
+    margin-left: 25px;
+}
+
+
+.destination2 p {
+
+    color: teal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
